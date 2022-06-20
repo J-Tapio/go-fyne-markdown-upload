@@ -10,8 +10,3 @@ Theme for Fyne app was provided with [Fyne Theme Generator](https://github.com/l
 
 ![App demo](./go-markdown-upload.gif)
 
-### Todo
-
-- Refactor ui.go file
-  - Possibly separate to another file creation of ui components, leave logic to ui.go?
-- Out of interest create similar app with Javascript and Electron to build desktop app
